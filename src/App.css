@@ -1,0 +1,18 @@
+h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.content input {
+  display: inline-block;
+}
+
+.content p {
+  display: inline-block;
+  padding-left: 6px;
+}
+
+.actions-box{
+  display: inline-block;
+  padding-left: 15px;
+}
